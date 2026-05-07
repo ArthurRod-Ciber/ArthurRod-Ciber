@@ -1,6 +1,6 @@
 # Olá, eu sou Arthur Rodrigues Carvalho 👋
  
-Estudante de **Cibersegurança** na Universidade Federal de Uberlândia (UFU)
+Estudante da primeira turma de **Cibersegurança** na Universidade Federal de Uberlândia (UFU)
  
 ---
  
